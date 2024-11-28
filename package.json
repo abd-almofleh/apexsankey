@@ -11,7 +11,7 @@
   "type": "module",
   "main": "./apexsankey.min.js",
   "module": "./apexsankey.es.min.js",
-  "types": "index.d.ts",
+  "types": "./index.d.ts",
   "exports": {
     ".": {
       "import": {
